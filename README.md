@@ -11,7 +11,7 @@ to build:
 
 to launch:
 
-	- find bellow help file (see also with./imageCompressor -h)
+	find bellow help file (see also with./imageCompressor -h)
 
 	USAGE: ./imageCompressor n e IN
 
