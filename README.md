@@ -1,6 +1,6 @@
 # imagecompressor_epitech (TECH 2 2018-2019)
 
-This projet is Epitech implementation of famous alog "K-mean", made in Haskell.
+This projet is Epitech implementation of famous algorithm "K-mean", made in Haskell.
 
 From a file listing all the pixels of the image with their position and color, the algo regroup them into a given number
 of clusters, according to their colors.
