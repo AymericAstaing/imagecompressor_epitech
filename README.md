@@ -5,11 +5,13 @@ This projet is Epitech implementation of famous algorithm "K-mean", made in Hask
 From a file listing all the pixels of the image with their position and color, the algo regroup them into a given number
 of clusters, according to their colors.
 
+to build:
+
+	- make/ make re
+
 to launch:
 
-- make/ make re
-- find bellow help file (see also with./imageCompressor -h)
-
+	- find bellow help file (see also with./imageCompressor -h)
 
 	USAGE: ./imageCompressor n e IN
 
