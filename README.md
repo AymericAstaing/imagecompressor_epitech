@@ -1,3 +1,5 @@
+# imagecompressor_epitech (TECH 2 2018-2019)
+
 This projet is Epitech implementation of famous alog "K-mean", made in Haskell.
 
 From a file listing all the pixels of the image with their position and color, the algo regroup them into a given number
@@ -14,3 +16,5 @@ to launch:
 		n number of colors in the final image
 		e convergence limit
 		IN path to the file containing the colors of the pixels
+		
+Aymeric Astaing - EPITECH PARIS PROMO 2022
