@@ -8,8 +8,9 @@ to launch:
 - make/ make re
 - find bellow help file (see also with./imageCompressor -h)
 
-USAGE: ./imageCompressor n e IN
 
-	n number of colors in the final image
-	e convergence limit
-	IN path to the file containing the colors of the pixels
+	USAGE: ./imageCompressor n e IN
+
+		n number of colors in the final image
+		e convergence limit
+		IN path to the file containing the colors of the pixels
